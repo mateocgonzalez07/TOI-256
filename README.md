@@ -100,4 +100,4 @@ Los datos **no están en el repositorio** porque pesan demasiado (~2 GB de `.tar
 
 ## Licencia
 
-Por definir.
+Código bajo licencia [MIT](LICENSE).
